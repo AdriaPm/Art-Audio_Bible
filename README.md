@@ -9,7 +9,9 @@
 ## Table of Contents
 <details>
   <summary>Table of Contents</summary>
-  <a href="https://github.com/AdriaPm/Art-Audio_Bible/blob/main/README.md#introduction">1. Introduction</a>
+  <a> 1. Introduction</a>
+  
+  <a> 2. What is an art bible?</a>
 </details>
 
 # Introduction

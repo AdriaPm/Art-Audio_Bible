@@ -9,7 +9,7 @@
 ## Table of Contents
 <details>
   <summary>Table of Contents</summary>
-  <a href="https://github.com/AdriaPm/Art-Audio_Bible/blob/master/README.md#Introduction">1. Introduction</a>
+  <a href="https://github.com/AdriaPm/Art-Audio_Bible/edit/main/README.md#introduction">1. Introduction</a>
 </details>
 
 # Introduction

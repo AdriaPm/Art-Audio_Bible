@@ -9,9 +9,17 @@
 ## Table of Contents
 <details>
   <summary>Table of Contents</summary>
-  <a> 1. Introduction</a>
-  
-  <a> 2. What is an art bible?</a>
+  <ol>
+    <li>
+      <a> Introduction</a>
+    </li>
+    <li>
+      <a> What is an art bible?</a>
+    </li>
+    <li>
+      <a> Parts of an art bible</a>
+    </li>
+  </ol>
 </details>
 
 # Introduction
@@ -27,3 +35,26 @@ The art bible helps ensure that everyone involved in the development process is 
 ![](https://github.com/AdriaPm/Art-Audio_Bible/blob/main/docs/images/ArtBible1.png?raw=true)
 
 [Source](https://www.slideshare.net/kshiraj/game-art-bible-secret-sauce-to-making-great-game-art)
+
+# Parts of an art bible
+- **Art Style**
+
+- **Character Art**
+
+- **Level of Detail (L.O.D)**
+
+- **Camera**
+
+- **Color Palette**
+
+- **Atmosphere/Environment**
+
+- **Texture & Surface**
+
+- **User Interface**
+
+- **Technical Guidelines**
+
+- **References**
+
+

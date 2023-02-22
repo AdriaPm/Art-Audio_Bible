@@ -1,1 +1,12 @@
 ![](https://github.com/AdriaPm/Art-Audio_Bible/blob/main/docs/images/RepoTemplate.png?raw=true)
+
+# Useful Information
+- Made by: [Adrià Pons](https://github.com/AdriaPm)
+- Click [here](https://adriapm.github.io/Art-Audio_Bible/) to visit my project's website.
+- Click [here](https://github.com/AdriaPm/Art-Audio_Bible) to visit my project's Github repository.
+- Click [here](https://docs.google.com/presentation/d/1RGMhqZYVmR8XR7qWePsSDdmmJqId-8xN1oLdu2Q4AwM/edit?usp=sharing) to check slides presentation.
+
+# Introduction
+Hello! My name is Adrià Pons and I am a second-year bachelor's student in video game design and development at the [CITM](https://www.citm.upc.edu/) at [Universitat Politècnica de Catalunya](https://www.upc.edu/en).
+
+This website is built for information regarding my Project's II Personal Research lecture I delivered about Art & Audio Bibles in video games.

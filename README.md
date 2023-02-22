@@ -6,6 +6,12 @@
 - Click [here](https://github.com/AdriaPm/Art-Audio_Bible) to visit my project's Github repository.
 - Click [here](https://docs.google.com/presentation/d/1RGMhqZYVmR8XR7qWePsSDdmmJqId-8xN1oLdu2Q4AwM/edit?usp=sharing) to check slides presentation.
 
+## Table of Contents
+<details>
+  <summary>Table of Contents</summary>
+  <a href="https://github.com/AdriaPm/Art-Audio_Bible/blob/master/README.md#Introduction">1. Introduction</a>
+</details>
+
 # Introduction
 Hello! My name is Adrià Pons and I am a second-year bachelor's student in video game design and development at the [CITM](https://www.citm.upc.edu/) at [Universitat Politècnica de Catalunya](https://www.upc.edu/en).
 

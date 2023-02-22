@@ -21,3 +21,7 @@ This website is built for information regarding my Project's II Personal Researc
 An art bible is a document or collection of documents that serves as a comprehensive reference guide for the visual and artistic aspects of a video game. It includes information about the game's overall visual style, concepts for characters, environments, other visual elements, graphic's specifications, etc. 
 
 The art bible helps ensure that everyone involved in the development process is on the same page with regards to the game's visual design, ensuring its visual elements are consistent, coherent, and aligned with the game's creative vision.
+
+![](https://github.com/AdriaPm/Art-Audio_Bible/blob/main/docs/images/ArtBible1.png?raw=true)
+
+[Source](https://www.slideshare.net/kshiraj/game-art-bible-secret-sauce-to-making-great-game-art)

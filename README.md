@@ -2,8 +2,8 @@
 
 # Useful Information
 - Made by: [Adrià Pons](https://github.com/AdriaPm)
-- Click [here](https://adriapm.github.io/Art-Audio_Bible/) to visit my project's website.
-- Click [here](https://github.com/AdriaPm/Art-Audio_Bible) to visit my project's Github repository.
+- Click [here](https://adriapm.github.io/Art-Audio_Bible/) to visit project's website.
+- Click [here](https://github.com/AdriaPm/Art-Audio_Bible) to visit project's Github repository.
 - Click [here](https://docs.google.com/presentation/d/1RGMhqZYVmR8XR7qWePsSDdmmJqId-8xN1oLdu2Q4AwM/edit?usp=sharing) to check slides presentation.
 
 ## Table of Contents

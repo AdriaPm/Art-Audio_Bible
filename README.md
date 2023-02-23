@@ -55,6 +55,10 @@ The art bible helps ensure that everyone involved in the development process is 
 
 - To explain **how** and **why** stylistic decisions are made.
 
+![](https://github.com/AdriaPm/Art-Audio_Bible/blob/main/docs/gifs/InvestorsGif.gif?raw=true)
+
+[Source](https://gfycat.com/discover/prestige-worldwide-gifs)
+
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
 
 # 4. Parts of an art bible

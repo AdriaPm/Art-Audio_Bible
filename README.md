@@ -17,6 +17,9 @@
       <a> What is an art bible?</a>
     </li>
     <li>
+      <a> What is an art bible for?</a>
+    </li>
+    <li>
       <a> Parts of an art bible</a>
     </li>
   </ol>
@@ -40,7 +43,12 @@ The art bible helps ensure that everyone involved in the development process is 
 
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
 
-# 3. Parts of an art bible
+# 3. What is an art bible for?
+
+
+<p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
+
+# 4. Parts of an art bible
 - **Art Style**
 
 - **Character Art**
@@ -62,3 +70,6 @@ The art bible helps ensure that everyone involved in the development process is 
 - **References**
 
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
+
+
+***

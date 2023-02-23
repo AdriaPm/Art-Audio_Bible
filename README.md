@@ -45,13 +45,15 @@ The art bible helps ensure that everyone involved in the development process is 
 
 # 3. What is an art bible for?
 
-- To decide how the game will visually look like.
+- To decide how the game will **visually look like**.
 
-- To follow an artistic 'path' and consistency during the development of the game.
+- To convince potential **publishers or investors** of our game first look and whether to invest or not.
 
-- To help the team to undestand the direction of art, and also to new team members.
+- To follow an **artistic 'path' and consistency** during the development of the game.
 
-- To explain how and why stylistic decisions are made.
+- To help the team to **undestand the direction of art**, including new team members.
+
+- To explain **how** and **why** stylistic decisions are made.
 
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
 

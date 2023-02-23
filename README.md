@@ -27,6 +27,8 @@ Hello! My name is Adrià Pons and I am a second-year bachelor's student in video
 
 This website is built for information regarding my Project's II Personal Research lecture I delivered about Art & Audio Bibles in video games.
 
+<p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
+
 # 2. What is an art bible?
 An art bible is a document or collection of documents that serves as a comprehensive reference guide for the visual and artistic aspects of a video game. It includes information about the game's overall visual style, concepts for characters, environments, other visual elements, graphic's specifications, etc. 
 
@@ -35,6 +37,8 @@ The art bible helps ensure that everyone involved in the development process is 
 ![](https://github.com/AdriaPm/Art-Audio_Bible/blob/main/docs/images/ArtBible1.png?raw=true)
 
 [Source](https://www.slideshare.net/kshiraj/game-art-bible-secret-sauce-to-making-great-game-art)
+
+<p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
 
 # 3. Parts of an art bible
 - **Art Style**
@@ -57,4 +61,4 @@ The art bible helps ensure that everyone involved in the development process is 
 
 - **References**
 
-
+<p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>

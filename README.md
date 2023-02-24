@@ -70,6 +70,10 @@ The art bible helps ensure that everyone involved in the development process is 
 
 - **Who?** The art bible of our project is normally created by the art director, who has a clear vision/path of how the team wants the game to look like. However, in the case of small studios, other team members with some art experience can also collaborate and help the art director with the production of the art bible.
 
+![](https://github.com/AdriaPm/Art-Audio_Bible/blob/main/docs/images/WhatWhenWho.png?raw=true)
+
+[Image Source](https://www.slideshare.net/kshiraj/game-art-bible-secret-sauce-to-making-great-game-art)
+
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
 
 # 5. Parts of an art bible

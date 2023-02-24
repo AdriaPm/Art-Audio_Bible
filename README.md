@@ -39,7 +39,7 @@ The art bible helps ensure that everyone involved in the development process is 
 
 ![](https://github.com/AdriaPm/Art-Audio_Bible/blob/main/docs/images/ArtBible1.png?raw=true)
 
-[Source](https://www.slideshare.net/kshiraj/game-art-bible-secret-sauce-to-making-great-game-art)
+[Image Source](https://www.slideshare.net/kshiraj/game-art-bible-secret-sauce-to-making-great-game-art)
 
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
 
@@ -57,7 +57,7 @@ The art bible helps ensure that everyone involved in the development process is 
 
 ![](https://github.com/AdriaPm/Art-Audio_Bible/blob/main/docs/gifs/InvestorsGif.gif?raw=true)
 
-[Source](https://gfycat.com/discover/prestige-worldwide-gifs)
+[Image Source](https://gfycat.com/discover/prestige-worldwide-gifs)
 
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
 

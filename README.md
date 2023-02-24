@@ -80,23 +80,40 @@ The art bible helps ensure that everyone involved in the development process is 
 
 - **Art Style**
 
+First thing to do, choose our game's art style (realistic, cartoonish, etc). It may include things like character proportions, architecture and props proportions,  environment scale, time period, climate. Furthermore, it must include strokes and outlines for characters and environments.
+
 - **Character Art**
+
+Right after defining our art style, we should take a close look into the characters. We must create a basic structure/template from which we can create all the characters of our game. This template has to include style & construction, posing, expressions, costume, height scale comparison, and color palette.
+At the end, all characters must mantain a similarity between them, so everything in our game looks has a coherence.
 
 - **Level of Detail (L.O.D)**
 
+In this section we must decide the level of detail that we want our game to have. In other words, what will have detail and what will not. For intance, for characters, we may want them to have the highest LOD, but for architecture or environments we might have a lower one as it is not that important.
+
 - **Camera**
+
+Even though we might think this part is not important, what we must decide is which will be our game's camera position, field of view (fov), camera angle, where will the horizon be, transitions, camera effects, etc.
 
 - **Color Palette**
 
+This section is essential. We must decide color hues, vibrance and values, saturation, etc. It is so important because a good color palette for each scene can determine which feeling, emotions, expressions and mood will be transmited to the player.
+
 - **Atmosphere/Environment**
 
-- **Texture & Surface**
+Not much to say in this part. What is important to do is to determine scenes scales, schemes, wheather, etc.
 
 - **User Interface**
 
+This part is sometimes set aside when designing our game, but it is as important as everything else. A good UI can make a game look astonishing, wheter a bad UI can make a game look bad. Things that have to be decided are HUD, menu items, animations, etc. We must ensure that it follows the art style defined previously so the user experience (UX) is the best one possible.
+
 - **Technical Guidelines**
 
+When creating our game assets, we must follow some conventions. In this section, things like sprite sheets sizes, file names/naming rules, tools and software used and more need to be defined.
+
 - **References**
+
+And last but not least, we have the references/mood-boards. It is used to have a general art idea of everything. Captures from other video games, videos, movies, comics, illistrations should be included.
 
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
 

@@ -20,7 +20,7 @@
       <a> What is an art bible for?</a>
     </li>
     <li>
-      <a> When and who should do it?</a>
+      <a> When and who should do our art bible?</a>
     </li>
     <li>
       <a> Parts of an art bible</a>
@@ -64,7 +64,7 @@ The art bible helps ensure that everyone involved in the development process is 
 
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
 
-# 4. When and who should do it?
+# 4. When and who should do our art bible?
 
 - **When?** The art bible of our project should be created after the GDD (Game Design Document) and before starting producing our game assets. This way we can avoid creating unnecessary assets and save time and effort.
 

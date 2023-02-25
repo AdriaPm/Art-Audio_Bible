@@ -28,6 +28,9 @@
      <li>
       <a> What is an audio bible?</a>
     </li>
+    <li>
+      <a> When and who should do our audio bible?</a>
+    </li>
   </ol>
 </details>
 
@@ -137,5 +140,11 @@ Having an audio bible can help ensure consistency in voiceover performances, fac
 [Image source](https://www.istockphoto.com/es)
 
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
+
+# 7. When and who should do our audio bible?
+
+- **When?** As well as the art bible, the audio bible of our project should be created after the GDD (Game Design Document) and before starting producing our game assets. This way we can avoid creating unnecessary assets and save time and effort.
+
+- **Who?** The audio bible of our project is normally created by the audio director or the sound designer, who has a clear vision/path of how the team wants the game to sound like. In this case, a close collaboration also between the project director, the art director, designers and programmers should be followed. It is crucial for the good design and implementation in our game so we can reach an harmonic result.
 
 ***

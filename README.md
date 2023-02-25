@@ -31,6 +31,9 @@
     <li>
       <a> When and who should do our audio bible?</a>
     </li>
+    <li>
+      <a> Things to take into consideration when making our audio bible</a>
+    </li>
   </ol>
 </details>
 
@@ -150,6 +153,20 @@ Having an audio bible can help ensure consistency in voiceover performances, fac
 ![](https://github.com/AdriaPm/Art-Audio_Bible/blob/main/docs/gifs/AudioDirectorGif.gif?raw=true)
 
 [Image source](https://giphy.com/)
+
+<p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
+
+# 8. Things to take into consideration when making our audio bible
+
+- **Audio Pillars**
+
+- **Music**
+
+- **Effects**
+
+- **Voice Over**
+
+- **Format**
 
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
 

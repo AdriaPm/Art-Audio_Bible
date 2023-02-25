@@ -117,5 +117,8 @@ And last but not least, we have the references/mood-boards. It is used to have a
 
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
 
+## Example: *Dota 2* Character Art Guide
+
+Click [here](http://wiki.polycount.com/w/images/1/1f/Dota2CharacterArtGuide.pdf) to see *Dota 2* Character Art Guide example.
 
 ***

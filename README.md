@@ -147,4 +147,10 @@ Having an audio bible can help ensure consistency in voiceover performances, fac
 
 - **Who?** The audio bible of our project is normally created by the audio director or the sound designer, who has a clear vision/path of how the team wants the game to sound like. In this case, a close collaboration also between the project director, the art director, designers and programmers should be followed. It is crucial for the good design and implementation in our game so we can reach an harmonic result.
 
+![](https://github.com/AdriaPm/Art-Audio_Bible/blob/main/docs/gifs/AudioDirectorGif.gif?raw=true)
+
+[Image source](https://giphy.com/)
+
+<p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
+
 ***

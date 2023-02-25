@@ -132,6 +132,10 @@ An audio bible is a comprehensive collection of audio recordings related to the 
 
 Having an audio bible can help ensure consistency in voiceover performances, facilitate testing of audio content, and streamline the game development process. It is an essential tool for creating high-quality video games that provide an immersive audio experience for players.
 
+![](https://github.com/AdriaPm/Art-Audio_Bible/blob/main/docs/images/AudioBible.jpg?raw=true)
+
+[Image source](https://www.istockphoto.com/es)
+
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
 
 ***

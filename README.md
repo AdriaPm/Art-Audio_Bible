@@ -25,6 +25,9 @@
     <li>
       <a> Parts of an art bible</a>
     </li>
+     <li>
+      <a> What is an audio bible?</a>
+    </li>
   </ol>
 </details>
 
@@ -118,6 +121,16 @@ And last but not least, we have the references/mood-boards. It is used to have a
 ## Example: *Dota 2* Character Art Guide
 
 Click [here](http://wiki.polycount.com/w/images/1/1f/Dota2CharacterArtGuide.pdf) to see *Dota 2* Character Art Guide example.
+
+<p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
+
+***
+
+# 6. What is an audio bible?
+
+An audio bible is a comprehensive collection of audio recordings related to the production of a video game. This includes voiceover lines, sound effects, music, and other audio assets used in the game. It serves as a valuable resource for game developers, audio engineers, voice actors, and game testers, allowing them to quickly access and integrate the necessary audio assets during the game's production.
+
+Having an audio bible can help ensure consistency in voiceover performances, facilitate testing of audio content, and streamline the game development process. It is an essential tool for creating high-quality video games that provide an immersive audio experience for players.
 
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
 

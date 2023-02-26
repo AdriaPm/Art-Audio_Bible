@@ -158,15 +158,29 @@ Having an audio bible can help ensure consistency in voiceover performances, fac
 
 # 8. Things to take into consideration when making our audio bible
 
-- **Audio Pillars**
-
 - **Music**
+
+  - How do we want to make our players feel when playing?
+  - Which is the situation of each scene?
+  - Which instrumentation do we want to be performed?
 
 - **Effects**
 
+  - How are going to be our main character action effects like jumping, running, ...?
+  - How do we want our entities to sound like?
+  - Which type of ambiance do we want our world to sound like? 
+  - How will our UI elements sound like? 
+  
 - **Voice Over**
 
+  - Which style of voice over do we want so it fits our game? Which age type, gender type, ...?
+  - How will be our main character's voice? And the other entities?
+ 
 - **Format**
+
+  - Which audio formats, libraries and audio management will our game have?
+  
+  *Spoiler: In this case .OGG for music and .WAV for effects*.
 
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
 

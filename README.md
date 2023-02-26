@@ -37,6 +37,9 @@
     <li>
       <a> Application to our projects</a>
     </li>
+    <li>
+      <a> References</a>
+    </li>
   </ol>
 </details>
 
@@ -194,5 +197,19 @@ Click [here](https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-docume
 Arrived to this point, now it is your turn. You and your team members must meet all together and decide which art and audio style fits best your game idea and what you want to do. Next, you have to start thinking about what elements define the style you have chosen and try to see if they have a good coherence between all of them. 
 
 Knowing what you want you and your team want to do is crucial, it will help you to take an specific way of proceeding in both art and audio parts of your project. But before starting anything, you have to keep one thing in mind. As they say, *"Less is more. Keep it simple, st＊pid!"*. 
+
+![](https://github.com/AdriaPm/Art-Audio_Bible/blob/main/docs/gifs/K.I.S.S..gif?raw=true)
+
+[Image source](https://getyarn.io/yarn-clip/2e107c54-c65a-43b2-8125-eaf087e6a305/gif)
+
+<p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
+
+***
+
+# 10. References
+
+
+
+<p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
 
 ***

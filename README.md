@@ -182,7 +182,9 @@ Having an audio bible can help ensure consistency in voiceover performances, fac
   
   *Spoiler: In this case .OGG for music and .WAV for effects*.
 
-## Example
+## Example of an audio bible
+
+Click [here](https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-document/) to see an example of audio bible.
 
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
 

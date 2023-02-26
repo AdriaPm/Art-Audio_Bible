@@ -182,6 +182,8 @@ Having an audio bible can help ensure consistency in voiceover performances, fac
   
   *Spoiler: In this case .OGG for music and .WAV for effects*.
 
+## Example
+
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
 
 ***

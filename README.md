@@ -180,8 +180,6 @@ Having an audio bible can help ensure consistency in voiceover performances, fac
 
   - Which audio formats, libraries and audio management will our game have?
   
-  *Spoiler: In this case .OGG for music and .WAV for effects*.
-
 ## Example of an audio bible
 
 Click [here](https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-document/) to see an example of audio bible.

@@ -34,6 +34,9 @@
     <li>
       <a> Things to take into consideration when making our audio bible</a>
     </li>
+    <li>
+      <a> Application to our projects</a>
+    </li>
   </ol>
 </details>
 
@@ -185,5 +188,11 @@ Having an audio bible can help ensure consistency in voiceover performances, fac
 Click [here](https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-document/) to see an example of audio bible.
 
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
+
+# 9. Application to our projects
+
+Arrived to this point, now it is your turn. You and your team members must meet all together and decide which art and audio style fits best your game idea and what you want to do. Next, you have to start thinking about what elements define the style you have chosen and try to see if they have a good coherence between all of them. 
+
+Knowing what you want you and your team want to do is crucial, it will help you to take an specific way of proceeding in both art and audio parts of your project. But before starting anything, you have to keep one thing in mind: *"Less is more. Keep it simple!"*. 
 
 ***

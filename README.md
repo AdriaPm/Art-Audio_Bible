@@ -208,7 +208,25 @@ Knowing what you want you and your team want to do is crucial, it will help you 
 
 # 10. References
 
+- [Game Art Bible - Secret Sauce to Making Great Game Art](https://www.slideshare.net/kshiraj/game-art-bible-secret-sauce-to-making-great-game-art)
 
+- [What is an art bible? (Examples + practical tips)](https://www.oleanderstudios.com/what-is-an-art-bible-examples-practical-tips/)
+
+- [Creating an Art Bible](https://discover.therookies.co/2020/07/20/creating-an-art-bible/)
+
+- [Art Bible: All that has to be known](https://polcamacho.github.io/Art-Bible/)
+
+- [Art Bible Lecture](https://dusthandler.github.io/Art_Bible/)
+
+- [Audio Bible Research](https://m1r4b3l.github.io/Research-Audio-Bible/)
+
+- [Our 9 Sound Design Tips to Improve your Game’s Audio](https://gameanalytics.com/blog/9-sound-design-tips-to-improve-your-games-audio/)
+
+- NGDC 2013: Game Art Bible - The secret sauce to making great Game Art
+
+  - [Part 1](https://www.youtube.com/watch?v=vuXxfnCM56A&ab_channel=IndiaGDC)
+  - [Part 2](https://www.youtube.com/watch?v=YaDIbe2GeCY&ab_channel=IndiaGDC)
+  - [Part 3](https://www.youtube.com/watch?v=WKWRYvjB-dI&t=80s&ab_channel=IndiaGDC)
 
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
 

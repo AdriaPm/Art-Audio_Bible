@@ -186,7 +186,7 @@ Having an audio bible can help ensure consistency in voiceover performances, fac
   - Which style of voice over do we want so it fits our game? Which age type, gender type, ...?
   - How will be our main character's voice? And the other entities?
  
-- **Format**
+- **Conventions**
 
   - Which audio formats, libraries and audio management will our game have?
   

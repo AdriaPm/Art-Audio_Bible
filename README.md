@@ -130,9 +130,13 @@ When creating our game assets, we must follow some conventions. In this section,
 
 And last but not least, we have the references/mood-boards. It is used to have a general art idea of everything. Captures from other video games, videos, movies, comics, illistrations should be included.
 
-## Example: *Dota 2* Character Art Guide
+## Examples of art bibles
 
 Click [here](http://wiki.polycount.com/w/images/1/1f/Dota2CharacterArtGuide.pdf) to see *Dota 2* Character Art Guide example.
+
+Click [here](https://www.artstation.com/artwork/nAYke) to see an example of environment art guides.
+
+Click [here](https://www.artstation.com/artwork/EyG80) to see an example of character & environment art.
 
 <p align="right">(<a href="https://adriapm.github.io/Art-Audio_Bible/">Back to top</a>)</p>
 
